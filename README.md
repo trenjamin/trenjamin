@@ -30,3 +30,6 @@ Ranked **#112 globally on HackerOne**, currently pentesting for AWS and performi
 
 ### 📫 How to reach me
 Discord: **._ trenjamin _.**
+### 📫 How to reach me
+* Discord: **._ trenjamin _.**
+* [Guns.lol](https://guns.lol/trenjamin) & [About me Audio](https://guns.lol/trenjamin)
