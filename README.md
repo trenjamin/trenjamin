@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 I'm 17 & passionate about cybersecurity — specializing in offensive security, malware analysis, reverse engineering, and vulnerability research.  
-Ranked **#104 globally on HackerOne**, currently pentesting for AWS and performing paid web security checks via email.
+Ranked **#102 globally on HackerOne**, currently pentesting for AWS and performing paid web security checks via email.
 
 ---
 
 ### About Me
 - Founder @ **KillByteHub**
-- Ranked **#104 Worldwide** on HackerOne  
+- Ranked **#102 Worldwide** on HackerOne  
 - **CTF Competitor**
 - **Malware Analyst**
 - **Reverse Engineer & Maldev**
