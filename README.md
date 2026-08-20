@@ -7,7 +7,7 @@ Ranked **#102 globally on HackerOne**, currently pentesting for AWS and performi
 
 ### About Me
 - Founder @ **KillByteHub**
-- Ranked **#102 Worldwide** on HackerOne  
+- Ranked **#101 Worldwide** on HackerOne  
 - **CTF Competitor**
 - **Malware Analyst**
 - **Reverse Engineer & Maldev**
