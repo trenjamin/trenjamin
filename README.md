@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm 17 & passionate about cybersecurity — specializing in offensive security, malware analysis, reverse engineering, and vulnerability research.  
-Ranked **#102 globally on HackerOne**, currently pentesting for AWS and performing paid web security checks via email.
+**#101 globally on HackerOne**, currently pentesting for AWS and performing paid web security checks via email.
 
 ---
 
