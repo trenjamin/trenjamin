@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-`#101 global hackerone` // `maldev` // `reverse engineering` // `cloud infrastructure`
+`#101 global hackerone` // `maldev` // `reverse engineering` // `cloud infrastructure` // `Google: trenjamin hacker one`
 
 > "i don't care about your cve count. i care about the assumptions your architecture makes when it thinks no one is looking at the edge cases."
 
