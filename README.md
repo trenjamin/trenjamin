@@ -13,6 +13,7 @@
 - **Malware Analyst**
 - **Reverse Engineer & Maldev**
 - **0day / Vulnerability Research**
+- **Verified Provider — paid pentesting, not just bounty hunting**
 
 ---
 
@@ -23,6 +24,8 @@ currently running private operations for AWS and doing high-end web security aud
 
 i don't use automated scanners to find bugs. i use them to map the surface, then i write the python script that exploits the logic flaw the scanner missed.
 
+search "trenjamin hackerone" and you'll read about me. can't find my account on hackerone? probably because my real name isn't trenjamin, smartass. verified provider with paid pentesting, private engagements, and actual deliverables — not just a profile link.
+
 ---
 
 ### the work (highlights & disclosures)
@@ -31,7 +34,7 @@ i don't use automated scanners to find bugs. i use them to map the surface, then
 * **web api token exposure (jwt/jws):** tore down a proprietary session management lifecycle. found improper cryptographic signing on refresh tokens (they were using `none` algorithm fallback in a custom java library) that allowed full session hijacking and privilege escalation across their production fleet.
 * **0day / vulnerability research:** currently sitting on a couple of unreported UAF (Use-After-Free) primitives in a widely used open-source C library. working on weaponizing the heap layout before disclosure.
 
-* **if you need an admin panel or someones paskey's dm me on discord**
+* **if you need access to something that shouldn't be accessible, dm me on discord. bring context not aids.**
 
 ---
 
