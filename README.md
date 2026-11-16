@@ -6,6 +6,8 @@
 
 > "The people I work with i like to get em undisclosed all you're getting is "NoneyBaloney, he helps me with OSINT & Pred catching" - "DJ" Learning Cyber Security & a good friend of mine - "AnavarKid" helps in pentesting - "ROIDADDICT" most rep working with me, always there whenever i'm working on something.
 
+> "Good friends: ROIDADDICT #102 on Hacker one & NoneyBaloney #105 on Hacker One. Both verified & active pentesting for companies
+
 ---
 
 ### About Me
