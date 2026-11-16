@@ -16,6 +16,7 @@
 - **Reverse Engineer & Maldev**
 - **0day / Vulnerability Research**
 - **Verified Provider — paid pentesting, not just bounty hunting**
+- **500+ Preds Caught - Pred Catching**
 
 ---
 
@@ -35,7 +36,7 @@ search "trenjamin hackerone" and you'll read about me. can't find my account on 
 * **cloud microservices (ssrf & protocol smuggling):** bypassed standard WAF rules to hit an internal routing table. standard scanners missed it because the payload required a specific, undocumented state in the microservice's protobuf handler. managed to desync the gRPC stream and leak internal routing tables.
 * **web api token exposure (jwt/jws):** tore down a proprietary session management lifecycle. found improper cryptographic signing on refresh tokens (they were using `none` algorithm fallback in a custom java library) that allowed full session hijacking and privilege escalation across their production fleet.
 * **0day / vulnerability research:** currently sitting on a couple of unreported UAF (Use-After-Free) primitives in a widely used open-source C library. working on weaponizing the heap layout before disclosure.
-**OSINT & Predator Apprehension: verified ethical hacker specializing in deep OSINT investigations and predator catching. successfully identified and assisted in the apprehension of 500+ predators and extortionists. currently providing intelligence gathering and operational support for upcoming streamer Kadenem Twitch(https://www.twitch.tv/kadenem_) YouTube(https://www.youtube.com/@kadenmarriott) in collaboration with NoneyBaloney.**
+**OSINT & Predator Apprehension: verified ethical hacker specializing in deep OSINT investigations and predator catching. successfully identified and assisted in the apprehension of 500+ predators and extortionists. currently providing intelligence gathering and operational support for upcoming streamer Kadenem [Twitch](https://www.twitch.tv/kadenem_) [YouTube](https://www.youtube.com/@kadenmarriott) in collaboration with NoneyBaloney.**
 
 * **if you need access to something that shouldn't be accessible, dm me on discord. bring context not aids.**
 
