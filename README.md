@@ -74,10 +74,9 @@ Testimonial (Private Apprehension Operation):
 ### 📫 How to reach me
 Discord: **._ trenjaminbutton _.**
 ### 📫 How to reach me
+* Discord: **._ trenjamin _.**
+* [Guns.lol](https://guns.lol/trenjamin) & [UNCHECKED (Paid Pentesting)](https://paidunchecked.netlify.app/)
 
 ---
 
 *note: i don't do generic networking, and i don't teach beginners. if you message me, bring a technical problem, a pcap, a binary, or a bounty split. script kiddies and recruiters will be blocked.*
-
-* Discord: **._ trenjamin _.**
-* [Guns.lol](https://guns.lol/trenjamin) & [UNCHECKED (Paid Pentesting)](https://paidunchecked.netlify.app/)
