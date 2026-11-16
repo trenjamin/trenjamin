@@ -68,7 +68,7 @@ search "trenjamin hackerone" and you'll read about me. can't find my account on 
 ### HELP THE PUBLIC | OSINT & Apprehension Operations
 
 i don't just look at code; i look at people. as a verified ethical hacker specializing in predator catching and deep-dive OSINT, i’ve helped identify and facilitate the apprehension of 500+ predators and extortionists.
-currently providing intelligence gathering and operational support for upcoming streamer Kadenem Twitch(https://www.twitch.tv/kadenem_) YouTube(https://www.youtube.com/@kadenmarriott) in collaboration with NoneyBaloney. we track the trackers and turn their own footprints against them.
+currently providing intelligence gathering and operational support for upcoming streamer Kadenem [Twitch](https://www.twitch.tv/kadenem_) [YouTube](https://www.youtube.com/@kadenmarriott) in collaboration with NoneyBaloney. we track the trackers and turn their own footprints against them.
 Testimonial (Private Apprehension Operation):
 
 "trenjamin doesn't just find data; he finds the person behind the screen. his OSINT work was surgical—turning a few leaked IPs and a blurry screenshot into a full physical location and identity within 48 hours. professional, discreet, and terrifyingly effective. if you're hiding, he's already found you."
